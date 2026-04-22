@@ -10,3 +10,5 @@ point_operations/
 └── reporte.pdf # Report
 ```
 
+## Software 
+You can download Image Processing Laboratory here: https://es.mathworks.com/matlabcentral/fileexchange/28445-image-processing-laboratory
