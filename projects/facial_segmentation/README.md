@@ -1,5 +1,5 @@
-# Facial Segmentation
-
+# Facial Segmentation (FaceTrack)
+This module implements a facial segmentation system using digital image processing techniques. It includes a backend application for processing and segmenting facial images, as well as an experimental application used to explore fundamental image processing operations.
 
 ## Module Structure
 
