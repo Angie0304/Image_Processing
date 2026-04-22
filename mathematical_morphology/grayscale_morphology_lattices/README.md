@@ -1,1 +1,1 @@
-
+# Grayscale Morphology on Lattices
