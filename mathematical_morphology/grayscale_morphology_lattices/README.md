@@ -23,3 +23,30 @@ The module follows these steps:
 7. Apply morphological gradients
 8. Compute gradient by dilation and by erosion
 9. Apply top-hat and black-hat transformations
+
+
+## Usage
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run the notebook
+
+```bash
+jupyter notebook morfologia_escala_grises.ipynb
+```
+
+### 3. Output
+
+The notebook will:
+
+* Display the original image
+* Show results of morphological operations
+* Visualize gradients and transformations
+
+
+## Status 
+Completed
