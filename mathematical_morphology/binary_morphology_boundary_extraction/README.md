@@ -21,19 +21,3 @@ The module follows these steps:
 6. Extract boundaries using:
    - Morphological gradient 
    - Internal boundary
-
-## Boundary Extraction Methods
-
-
-**Morphological Gradient**
-
-$$
-G = (A ⊕ S) - (A ⊖ S)
-$$
-
-
-**Internal Boundary**
-
-$$
-B = A - (A ⊖ S)
-$$
