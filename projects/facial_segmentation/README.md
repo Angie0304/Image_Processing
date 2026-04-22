@@ -1,4 +1,4 @@
-# Facial Segmentation (FaceTrack)
+# FaceTrack: Facial Segmentation
 This module implements a facial segmentation system using digital image processing techniques. It includes a backend application for processing and segmenting facial images, based on prior experimentation with fundamental image processing operations such as noise handling, filtering, and edge detection.
 
 ## Module Structure
@@ -22,7 +22,7 @@ facial_segmentation/
 ## How it works
 
 ### Facial Segmentation Backend
-The system follows these steps:
+The system works as follows:
 
 1. Upload an input image  
 2. Analyze brightness and contrast  
