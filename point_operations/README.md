@@ -6,9 +6,15 @@ This module contains a report on point operations in digital image processing, d
 
 ```text
 point_operations/
-├── README.md   # Documentation
-└── reporte.pdf # Report
-```
+├── data/           # Input images used in the experiment
+│   ├── imagen1.jpg
+│   ├── imagen2.jpg
+│   ├── imagen3.jpg
+│   ├── imagen4.jpg
+│   ├── imagen5.jpg
+│   └── imagen6.jpg
+├── README.md       # Documentation
+└── reporte.pdf     # Report`
 
 ## Software
 
