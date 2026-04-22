@@ -38,13 +38,13 @@ The system follows these steps:
 ### Experimental application 
 The application follows these steps:
 
-Load one or two input images  
-Apply arithmetic operations (addition, subtraction, multiplication)  
-Apply logical operations (AND, OR, XOR)  
-Adjust image intensity using scalar operations  
-Generate noise (Gaussian and salt & pepper)  
-Apply edge detection (Canny and Roberts)  
-Display results through a graphical interface  
+1. Load one or two input images  
+2. Apply arithmetic operations (addition, subtraction, multiplication)  
+3. Apply logical operations (AND, OR, XOR)  
+4. Adjust image intensity using scalar operations  
+5. Generate noise (Gaussian and salt & pepper)  
+6. Apply edge detection (Canny and Roberts)  
+7. Display results through a graphical interface  
 
 
 
