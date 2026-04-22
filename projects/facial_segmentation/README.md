@@ -23,16 +23,15 @@ facial_segmentation/
 
 ### Facial Segmentation Backend
 The system works as follows:
-
-1. Upload an input image  
-2. Analyze brightness and contrast  
-3. Adjust image properties automatically  
-4. Convert the image to grayscale  
-5. Apply noise reduction  
-6. Detect edges using filters (Roberts and Sobel)  
-7. Combine edge information  
-8. Apply thresholding for segmentation  
-9. Generate a partially segmented facial image
+- Upload an input image
+-  Analyze brightness and contrast
+-  Adjust image properties automatically  
+-  Convert the image to grayscale  
+-  Apply noise reduction
+-  Detect edges using filters (Roberts and Sobel)   
+-  Combine edge information  
+-  Apply thresholding for segmentation  
+-  Generate a partially segmented facial image
 
 
 ## Usage
