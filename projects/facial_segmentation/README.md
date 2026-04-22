@@ -16,7 +16,7 @@ facial_segmentation/
 │   ├── aplicacion.py              # Backend for facial segmentation
 │   └── experimentacion_1.py       # Experimental PDI application
 ├── requirements.txt               # Dependencies
-└── README.md                      # Documentation and execution guide
+└── README.md                      # Documentation and usage guide
 
 ```
 ## How it works
