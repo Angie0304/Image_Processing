@@ -70,3 +70,7 @@ http://localhost:3000
 The backend for facial segmentation is fully implemented.  
 The frontend interface is currently under development.
 
+## Notes
+
+The application runs as a backend service and does not include a graphical interface at this stage.
+
