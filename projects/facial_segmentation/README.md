@@ -32,7 +32,7 @@ The system follows these steps:
 6. Detect edges using filters (Roberts and Sobel)  
 7. Combine edge information  
 8. Apply thresholding for segmentation  
-9. enerate a partially segmented facial image
+9. Generate a partially segmented facial image
 
 
 ## Usage
