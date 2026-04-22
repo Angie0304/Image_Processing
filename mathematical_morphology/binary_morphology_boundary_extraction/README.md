@@ -21,3 +21,27 @@ The module follows these steps:
 6. Extract boundaries using:
    - Morphological gradient 
    - Internal boundary
+
+
+## Usage
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run the notebook
+
+```bash
+jupyter notebook morfologia_binaria.ipynb
+```
+
+### 3. Output
+
+The notebook will:
+
+* Display original images
+* Show results of erosion and dilation
+* Apply opening and closing for noise removal
+* Visualize extracted boundaries
