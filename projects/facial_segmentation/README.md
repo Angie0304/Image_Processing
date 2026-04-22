@@ -35,6 +35,36 @@ The system follows these steps:
 9. enerate a partially segmented facial image
 
 
+## Usage
+
+### 1. Install dependencies
+
+```bash id="y8i2v3"
+pip install -r requirements.txt
+```
+
+### 2. Run the backend
+
+```bash id="c1l8mx"
+python src/aplicacion.py
+```
+
+### 3. Open in browser
+
+Go to:
+
+```
+http://localhost:3000
+```
+
+### 4. Upload an image
+
+- Upload an image from your device  
+- Wait for the processing to complete  
+- View the segmentation result  
+
+
+
 ## Status
 
 The backend for facial segmentation is fully implemented.  
