@@ -24,12 +24,16 @@ The module follows these steps:
 
 ## Boundary Extraction Methods
 
+
 **Morphological Gradient**
+
 $$
 G = (A ⊕ S) - (A ⊖ S)
 $$
 
+
 **Internal Boundary**
+
 $$
 B = A - (A ⊖ S)
 $$
