@@ -4,9 +4,9 @@
 ```text
 binary_morphology_boundary_extraction/
 ├── README.md                   # Documentation and execution guide
-├── clasificador.py             # Euclidean distance classifier implementation
-├── requirements.txt            # Module dependencies 
-└── resultado.png               # Scatter plot showing centroids and classification
+├── morfologia_binaria.ipynb    
+├── reporte.pdf            
+└── requirements.txt            # Module dependencies  
 ```
 
 
