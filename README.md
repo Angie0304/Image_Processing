@@ -5,8 +5,8 @@ This repository contains a collection of projects related to digital image proce
 
 ```text
 image_processing/
-├── mathematical_morphology/   # Morphological operations and experiments
-├── point_operations/          # Point operations and experimental analysis
-├── projects/                  # Applied image processing projects
-└── README.md                  # Repository documentation
+├── mathematical_morphology/   # Binary and grayscale morphology experiments
+├── point_operations/          # Arithmetic, logical operations and thresholding
+├── projects/                  # Projects: Facial segmentation
+└── README.md                  # RMain documentation and index
 ```
