@@ -16,6 +16,7 @@ point_operations/
 ├── README.md                     # Documentation
 └── reporte.pdf                   # Report`
 
+```
 ## Software
 
 This module was developed using the Image Processing Laboratory software.
