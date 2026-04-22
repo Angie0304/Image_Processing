@@ -8,6 +8,7 @@ This module implements grayscale morphological operations based on lattice theor
 ```text
 grayscale_morphology_lattices/
 ├── README.md                       # Documentation and execution guide
+├── imagen4.bmp                     # Input image used in the experiment
 ├── morfologia_escala_grises.ipynb  # Grayscale morphology operations
 ├── reporte.pdf                     # Report 
 └── requirements.txt                # Dependencies  
