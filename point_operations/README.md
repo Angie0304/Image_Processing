@@ -10,7 +10,9 @@ point_operations/
 └── reporte.pdf # Report
 ```
 
-## Software 
-You can download Image Processing Laboratory here: 
+## Software
 
-https://es.mathworks.com/matlabcentral/fileexchange/28445-image-processing-laboratory
+This module was developed using the Image Processing Laboratory software.
+
+You can download it here:  
+[Image Processing Laboratory](https://es.mathworks.com/matlabcentral/fileexchange/28445-image-processing-laboratory)
