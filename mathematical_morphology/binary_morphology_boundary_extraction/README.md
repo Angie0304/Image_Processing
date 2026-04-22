@@ -22,4 +22,14 @@ The module follows these steps:
    - Morphological gradient (dilation − erosion)
    - Internal boundary (image − erosion)
 
+## Boundary Extraction Methods
 
+**Morphological Gradient**
+$$
+G = (A ⊕ S) - (A ⊖ S)
+$$
+
+**Internal Boundary**
+$$
+B = A - (A ⊖ S)
+$$
