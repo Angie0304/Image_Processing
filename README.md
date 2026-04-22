@@ -1,5 +1,7 @@
 # Image_Processing
-This repository contains a collection of projects related to digital image processing, including mathematical morphology, point operations, and applied projects. Each module focuses on experimentation, analysis, and implementation of different image processing techniques.
+This repository contains projects and practical exercises in digital image processing, including point operations, mathematical morphology, and image segmentation, with a focus on implementation and analysis of techniques.
+
+
 
 ## Repository Structure
 
