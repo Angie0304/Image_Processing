@@ -16,3 +16,6 @@ This module was developed using the Image Processing Laboratory software.
 
 You can download it here:  
 [Image Processing Laboratory](https://es.mathworks.com/matlabcentral/fileexchange/28445-image-processing-laboratory)
+
+## Status 
+Completed
