@@ -19,8 +19,8 @@ The module follows these steps:
 4. Use opening to remove noise
 5. Use closing to fill gaps
 6. Extract boundaries using:
-   - Morphological gradient (dilation − erosion)
-   - Internal boundary (image − erosion)
+   - Morphological gradient 
+   - Internal boundary
 
 ## Boundary Extraction Methods
 
