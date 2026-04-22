@@ -1,5 +1,7 @@
 # Binary Morphology for Boundary Extraction
 
+This module implements binary morphological operations for boundary extraction and noise removal in images. It applies erosion, dilation, opening, and closing to analyze and enhance object structures.
+
 ## Module structure
 ```text
 binary_morphology_boundary_extraction/
