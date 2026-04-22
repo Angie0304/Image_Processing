@@ -50,8 +50,6 @@ python src/aplicacion.py
 
 ### 3. Open in browser
 
-Go to:
-
 ```
 http://localhost:3000
 ```
@@ -59,7 +57,7 @@ http://localhost:3000
 ### 4. Upload an image
 
 - Upload an image from your device  
-- Wait for the processing to complete  
+- Wait for processing to complete  
 - View the segmentation result  
 
 
