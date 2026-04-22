@@ -1,5 +1,8 @@
 # Grayscale Morphology on Lattices
 
+This module implements grayscale morphological operations based on lattice theory for image analysis. It applies dilation, erosion, opening, and closing, along with gradient-based methods and top-hat transformations to enhance and extract image features.
+
+
 
 ## Module structure
 ```text
