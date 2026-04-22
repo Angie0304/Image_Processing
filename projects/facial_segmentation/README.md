@@ -13,7 +13,7 @@ facial_segmentation/
 │   ├── Imagen3_alto_contraste.bmp  
 │   └── Imagen4_bajo_contraste.bmp  
 ├── src/
-│   ├── aplicacion.py              # Main application
-│   └── experimentacion_1.py       # Experimental script
+│   ├── aplicacion.py              # Backend for facial segmentation
+│   └── experimentacion_1.py       # Experimental PDI application
 ├── requirements.txt               # Dependencies
 └── README.md                      #Documentation and execution guide
