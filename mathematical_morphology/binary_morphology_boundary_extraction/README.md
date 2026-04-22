@@ -45,3 +45,6 @@ The notebook will:
 * Show results of erosion and dilation
 * Apply opening and closing for noise removal
 * Visualize extracted boundaries
+
+## Status 
+Completed
