@@ -6,10 +6,10 @@ This module implements binary morphological operations for boundary extraction a
 ```text
 binary_morphology_boundary_extraction/
 ├── data/                        # Input images used in the experiment
+│   ├── arbol.bmp
 │   ├── hombre_binaria.bmp
-│   ├── rostro_mujer.bmp
 │   ├── perro.bmp
-│   └── arbol.bmp
+│   └── rostro_mujer.bmp
 ├── README.md                    # Documentation and execution guide
 ├── morfologia_binaria.ipynb     # Morphological operations and boundary extraction
 ├── reporte.pdf                  # Report 
