@@ -32,5 +32,24 @@ The system follows these steps:
 6. Detect edges using filters (Roberts and Sobel)  
 7. Combine edge information  
 8. Apply thresholding for segmentation  
-9. enerate a partially segmented facial image  
+9. enerate a partially segmented facial image
+
+
+### Experimental application 
+The application follows these steps:
+
+Load one or two input images  
+Apply arithmetic operations (addition, subtraction, multiplication)  
+Apply logical operations (AND, OR, XOR)  
+Adjust image intensity using scalar operations  
+Generate noise (Gaussian and salt & pepper)  
+Apply edge detection (Canny and Roberts)  
+Display results through a graphical interface  
+
+
+
+## Status
+
+The backend for facial segmentation is fully implemented.  
+The frontend interface is currently under development.
 
