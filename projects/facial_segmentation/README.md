@@ -1,5 +1,5 @@
 # Facial Segmentation (FaceTrack)
-This module implements a facial segmentation system using digital image processing techniques. It includes a backend application for processing and segmenting facial images, as well as an experimental application used to explore fundamental image processing operations.
+This module implements a facial segmentation system using digital image processing techniques. It includes a backend application for processing and segmenting facial images, based on prior experimentation with fundamental image processing operations such as noise handling, filtering, and edge detection.
 
 ## Module Structure
 
@@ -33,19 +33,6 @@ The system follows these steps:
 7. Combine edge information  
 8. Apply thresholding for segmentation  
 9. enerate a partially segmented facial image
-
-
-### Experimental application 
-The application follows these steps:
-
-1. Load one or two input images  
-2. Apply arithmetic operations (addition, subtraction, multiplication)  
-3. Apply logical operations (AND, OR, XOR)  
-4. Adjust image intensity using scalar operations  
-5. Generate noise (Gaussian and salt & pepper)  
-6. Apply edge detection (Canny and Roberts)  
-7. Display results through a graphical interface  
-
 
 
 ## Status
