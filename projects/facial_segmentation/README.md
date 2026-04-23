@@ -54,13 +54,6 @@ python src/aplicacion.py
 http://localhost:3000
 ```
 
-### 4. Upload an image
-
-- Upload an image from your device  
-- Wait for processing to complete  
-- View the segmentation result  
-
-
 
 ## Status
 
