@@ -52,4 +52,4 @@ The notebook will:
 * Visualize extracted boundaries
 
 ## Status 
-Completed
+Complete
