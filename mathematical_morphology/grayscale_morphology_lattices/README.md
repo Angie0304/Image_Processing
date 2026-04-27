@@ -53,4 +53,4 @@ The notebook will:
 
 
 ## Status 
-Completed
+Complete
