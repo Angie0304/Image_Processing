@@ -19,7 +19,7 @@ point_operations/
 ```
 ## Software
 
-This project requires Image Processing Laboratory software.
+This module requires Image Processing Laboratory software.
 
 You can download it here:  [Image Processing Laboratory](https://es.mathworks.com/matlabcentral/fileexchange/28445-image-processing-laboratory)
 
