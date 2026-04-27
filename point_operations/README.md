@@ -14,15 +14,14 @@ point_operations/
 │   ├── retrete_bajo_contraste.png
 │   └── sillas_oscura.png
 ├── README.md                     # Documentation
-└── reporte.pdf                   # Report`
+└── reporte.pdf                   # Report
 
 ```
 ## Software
 
 This project requires Image Processing Laboratory software.
 
-You can download it here:  
-[Image Processing Laboratory](https://es.mathworks.com/matlabcentral/fileexchange/28445-image-processing-laboratory)
+You can download it here:  [Image Processing Laboratory](https://es.mathworks.com/matlabcentral/fileexchange/28445-image-processing-laboratory)
 
 ## Status 
 Completed
